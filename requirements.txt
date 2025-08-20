@@ -1,7 +1,8 @@
-stremlit
+streamlit
 pandas
 numpy
 sklearn
 matplotlib
 seaborn
 xgboost
+scikit-learn
